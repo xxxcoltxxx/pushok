@@ -26,9 +26,7 @@
         "lib-openssl": ">=1.0.2.5",
         "ext-json": "*",
         "ext-xml": "*",
-        "ext-intl": "*",
-        "web-token/jwt-signature-algorithm-ecdsa": "^1.0",
-        "web-token/jwt-key-mgmt": "^1.0"
+        "ext-intl": "*"
     },
     "autoload": {
         "psr-4": {
